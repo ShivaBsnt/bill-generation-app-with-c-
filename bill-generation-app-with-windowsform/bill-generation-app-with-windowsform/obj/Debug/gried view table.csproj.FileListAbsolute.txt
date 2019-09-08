@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\gried view table\gried view table\bin\Debug\gried view table.exe.config
+C:\Users\User\source\repos\gried view table\gried view table\bin\Debug\gried view table.exe
+C:\Users\User\source\repos\gried view table\gried view table\bin\Debug\gried view table.pdb
+C:\Users\User\source\repos\gried view table\gried view table\obj\Debug\gried view table.csprojAssemblyReference.cache
+C:\Users\User\source\repos\gried view table\gried view table\obj\Debug\gried_view_table.Form1.resources
+C:\Users\User\source\repos\gried view table\gried view table\obj\Debug\gried_view_table.Properties.Resources.resources
+C:\Users\User\source\repos\gried view table\gried view table\obj\Debug\gried view table.csproj.GenerateResource.cache
+C:\Users\User\source\repos\gried view table\gried view table\obj\Debug\gried view table.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\gried view table\gried view table\obj\Debug\gried view table.exe
+C:\Users\User\source\repos\gried view table\gried view table\obj\Debug\gried view table.pdb
+C:\Users\User\source\repos\gried view table\gried view table\obj\Debug\gried_view_table.Bill.resources
+C:\Users\User\source\repos\gried view table\gried view table\obj\Debug\gried_view_table.Dashboard.resources
+C:\Users\User\source\repos\gried view table\gried view table\obj\Debug\gried_view_table.login.resources
+C:\Users\User\source\repos\gried view table\gried view table\obj\Debug\gried_view_table.BllGeneration.resources
+C:\Users\User\source\repos\gried view table\gried view table\obj\Debug\gried_view_table.DynamicButton.resources
+C:\Users\User\source\repos\gried view table\gried view table\obj\Debug\gried_view_table.ShowBill.resources
